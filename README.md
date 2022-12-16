@@ -1,5 +1,5 @@
 # cst205final
 
-# Image Manipulator
+Image Manipulator
 
-# Isabel Kasim
+Isabel Kasim
